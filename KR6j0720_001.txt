@@ -1,5 +1,5 @@
-#-*- mode: mandoku-view; -*-
-#+DATE: 2015-08-30 20:38:29.916435
+# -*- mode: mandoku-view; -*-
+#+DATE: 2016-06-08 15:33
 #+TITLE: 楞嚴經勢至圓通章解
 #+PROPERTY: CBETA_ID X16n0312
 #+PROPERTY: ID KR6j0720
